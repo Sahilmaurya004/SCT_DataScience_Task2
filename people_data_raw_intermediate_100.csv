@@ -1,0 +1,109 @@
+Person_ID,Name,Gender,Course,Subject,Email,Age,City
+1,Aarav Sharma,Male,BCA,Python,aarav.sharma@gmail.com,20,Lucknow
+2, Priya Verma ,Female,BCA,Java, priya.verma@gmail.com ,21,Kanpur
+3,Rahul Singh,Male,BBA,Excel,rahul.singh@gmail.com,22,Lucknow
+4,Ananya Gupta,Female,BCA,Python,ananya.gupta@gmail.com,20,Unnao
+5,Vikash Yadav,Male,bca,SQL,vikash.yadav@gmail.com,21,Kanpur
+6,Neha Mishra,Female,BBA,Excel,neha.mishra@gmail.com,22,Lucknow
+7,Rohan Kumar,Male,BCA,Python,rohan.kumar@gmail.com,20,Unnao
+8,Sneha Tiwari,Female,BCA,Java,,21,Kanpur
+9,Aditya Singh,Male,BBA,SQL,aditya.singh@gmail.com,23,Lucknow
+10,Pooja Gupta,Female,BCA,Python,pooja.gupta@gmail.com,20,Unnao
+11,Karan Verma,Male, BCA,Java,karan.verma@gmail.com,,Kanpur
+12,Simran Khan,female,BBA,Excel,simran.khan@gmail.com,22,Lucknow
+13,Aman Srivastava,Male,BCA,Python,aman.srivastava@gmail.com,20,Unnao
+14,Riya Sharma,Female,BCA,SQL,riya.sharma@gmail.com,21,Kanpur
+15,Mohit Yadav,Male,BBA,Excel,mohit.yadav@gmail.com,22,Lucknow
+16,Ishita Singh,Female,BCA,Java,ishita.singh@gmail.com,20,Unnao
+17,Abhishek Gupta,Male,BCA,Python,abhishek.gupta@gmail.com,21,Kanpur
+18,Kritika Verma,Female,BBA,SQL,kritika.verma@gmail.com,22,Lucknow
+19,Saurabh Kumar,Male,BCA,,saurabh.kumar@gmail.com,23,Unnao
+20,Muskan Mishra,Female,BCA,Python,muskan.mishra@gmail.com,20,Kanpur
+21,Arjun Singh,Male,BBA,Excel ,arjun.singh@gmail.com,,Lucknow
+22,Nandini Yadav,Female,BCA,SQL,nandini.yadav@gmail.com,22,Unnao
+23,Deepak Verma,Male,BCA,python,deepak.verma@gmail.com,20,Kanpur
+24,Kajal Gupta,Female,BBA,Java,kajal.gupta@gmail.com,21,Lucknow
+25,Harsh Sharma,Male,BCA,SQL,harsh.sharma@gmail.com,22,Unnao
+26,Tanya Singh,Female,BCA,Python,tanya.singh@gmail.com,20,Kanpur
+27,Manish Yadav,Male,BBA,Excel,manish.yadav@gmail.com,21,Lucknow
+28,Shreya Mishra,Female,BCA,Java,shreya.mishra@gmail.com,,Unnao
+29,Nikhil Kumar,Male,BCA,Python,nikhil.kumar@gmail.com,20,Kanpur
+30,Aditi Verma,Female,BBA,SQL,aditi.verma@gmail.com,21,Lucknow
+31,Yash Gupta,Male,BCA,Java,yash.gupta@gmail.com,,Unnao
+32,Palak Sharma,Female,BCA,Python,palak.sharma@gmail.com,20, Unnao
+33,Varun Singh,Male,BBA,Excel,varun.singh@gmail.com,21,Lucknow
+34,Komal Yadav,Female,BCA,SQL,komal.yadav@gmail.com,22,lucknow
+35,Rajat Verma,Male,BCA,Python,rajat.verma@gmail.com,20,Kanpur
+36,Divya Gupta,Female,BBA,Java,divya.gupta@gmail.com,21,Lucknow
+37,Akash Sharma,Male,BCA,SQL,akash.sharma@gmail.com,22,
+38,Mansi Singh,Female,BCA,Python,mansi.singh@gmail.com,20,Kanpur
+39,Naveen Yadav,Male,BBA,Excel,naveen.yadav@gmail.com,21,Lucknow
+40,Sakshi Mishra,Female,BCA,Java,sakshi.mishra@gmail.com,22,Unnao
+41,Ayush Kumar,Male,BCA,Python,ayush.kumar@gmail.com,20,Kanpur
+42,Ritika Verma,Female,BBA,SQL,ritika.verma@gmail.com,21,Lucknow
+43,Rishabh Gupta ,Male,BCA,Java,rishabh.gupta@gmail.com,,Unnao
+44,Garima Sharma,Female,BCA,Python,garima.sharma@gmail.com,20,Kanpur
+45,Sumit Singh,MALE,BBA,Excel,sumit.singh@gmail.com,21,Lucknow
+46,Shalini Yadav,Female,BCA,SQL,shalini.yadav@gmail.com,22,Unnao
+47,Tarun Verma,Male,BCA,Python,tarun.verma@gmail.com,20,Kanpur
+48,Nisha Gupta,Female,BBA,Java,nisha.gupta@gmail.com,21,Lucknow
+49,Ravi Sharma,Male,,SQL,ravi.sharma@gmail.com,22,Unnao
+50,Megha Singh,Female,BCA,Python,megha.singh@gmail.com,20,Kanpur
+51,Vivek Yadav,Male,BBA,Excel,vivek.yadav@gmail.com,21,Lucknow
+52,Pallavi Mishra,Female,BCA,Java,pallavi.mishra@gmail.com,22,Unnao
+53,Rohit Kumar,Male,BCA,Python,rohit.kumar@gmail.com,20,Kanpur
+54,Isha Verma,Female,BBA,SQL,isha.verma@gmail.com,21,Lucknow
+55,Gaurav Gupta,Male,BCA,Java, gaurav.gupta@gmail.com,22,Unnao
+56,Preeti Sharma,bBa,Python,preeti.sharma@gmail.com,20,Kanpur,
+57,Lokesh Singh,Male,BBA,Excel,lokesh.singh@gmail.com,21,Lucknow
+58,Rashmi Yadav,Female,BCA,SQL,rashmi.yadav@gmail.com,22,Unnao
+59,Varun Verma,,BCA,Python,varun.verma@gmail.com,20,Kanpur
+60,Monika Gupta,Female,BBA,Java,monika.gupta@gmail.com,21,Lucknow
+61,Ankit Sharma,Male,BCA,SQL,ankit.sharma@gmail.com,22,Unnao
+62,Priti Singh,Female,BCA,Python,priti.singh@gmail.com,20,Kanpur
+63,Vikas Yadav,Male,BBA,Excel,vikas.yadav@gmail.com,21,Lucknow
+64,Renu Mishra,Female,BCA,Java,renu.mishra@gmail.com,22,Unnao
+65,Dev Kumar,Male,BCA ,Python,dev.kumar@gmail.com,20,Kanpur
+66,Sonia Verma,Female,BBA,SQL,sonia.verma@gmail.com,21,Lucknow
+67,Shubham Gupta,BCA,JAVA,shubham.gupta@gmail.com,22,Unnao,
+68,Tanvi Sharma,Female,BCA,Python,tanvi.sharma@gmail.com,20,Kanpur
+69,Chandan Singh,Male,BBA,Excel,chandan.singh@gmail.com,21,Lucknow
+70,Kavya Yadav,Female,BCA,SQL,,22,Unnao
+71,Nitin Verma,Male,BCA,Python,nitin.verma@gmail.com,20,Kanpur
+72,Roshni Gupta,Female,BBA,Java,roshni.gupta@gmail.com,21,Lucknow
+73,Amit Sharma,Male,BCA,SQL,amit.sharma@gmail.com,22,Unnao
+74,Ayesha Singh,Female,BCA,Python,ayesha.singh@gmail.com,20,Kanpur
+75,Pankaj Yadav,Male,BBA, Python,pankaj.yadav@gmail.com,21,Lucknow
+76,Bhavna Mishra,Female,BCA,Java,bhavna.mishra@gmail.com,22,Unnao
+77,Sachin Kumar,Male,BCA,Python,sachin.kumar@gmail.com,20,KANPUR
+78,Juhi Verma,Female,BBA,SQL,juhi.verma@gmail.com,21,Lucknow
+79,Rakesh Gupta,Male,BCA,Java,rakesh.gupta@gmail.com,,Unnao
+80,Payal Sharma,Female,BCA,Python,payal.sharma@gmail.com,20,Kanpur
+81,Anurag Singh,Male,BBA,Excel,anurag.singh@gmail.com,21,Lucknow
+82,Kiran Yadav,Female,BCA,SQL,kiran.yadav@gmail.com,22,Unnao
+83,Prakash Verma,Male,BCA,Python,prakash.verma@gmail.com,20,Kanpur
+84,Rekha Gupta,BBA,Java,rekha.gupta@gmail.com,21,Lucknow,
+85,Devendra Sharma,Male,BCA,SQL,devendra.sharma@gmail.com,22,Lucknow 
+86,Suman Singh,Female,BCA,Python,suman.singh@gmail.com,20,Kanpur
+87,Raj Yadav,Male,BBA,Excel,raj.yadav@gmail.com,21,Lucknow
+88,Rachna Mishra,Female ,BCA,Java,rachna.mishra@gmail.com,22,Unnao
+89,Kunal Kumar,Male,BCA,kunal.kumar@gmail.com,20,,
+90,Ritu Verma,Female,BBA,SQL,ritu.verma@gmail.com,21,Lucknow
+91,Aman Gupta,Male,BCA,Java,aman.gupta@gmail.com,22,Unnao
+92,Shivani Sharma,Female,BCA,Python,shivani.sharma@gmail.com,20,Kanpur
+93,Rohit Singh,Male,BBA,rohit.singh@gmail.com,21,Lucknow,
+94,Nikita Yadav,Female,BCA,SQL,nikita.yadav@gmail.com,22,Unnao
+95, Sandeep Verma ,Male,BCA,Python,sandeep.verma@gmail.com,20,Kanpur
+96,Kusum Gupta,Female,BBA,Java,kusum.gupta@gmail.com,21,Lucknow
+97,Alok Sharma,Male,BCA ,SQL,alok.sharma@gmail.com,22,Unnao
+98,Rachit Singh,Male,BCA,,rachit.singh@gmail.com,20,Kanpur
+99,Divyanshi Yadav,Female,BBA,Excel,21,Lucknow,
+100,Poonam Mishra,Female,BCA,Java,poonam.mishra@gmail.com,22,Unnao
+15,Mohit Yadav,Male,BBA,Excel,mohit.yadav@gmail.com,22,Lucknow
+38,Mansi Singh,Female,BCA,Python,mansi.singh@gmail.com,20,Kanpur
+74,Ayesha Singh,Female,BCA,Python,ayesha.singh@gmail.com,20,Kanpur
+96,Kusum Gupta,Female,BBA,Java,kusum.gupta@gmail.com,21,Lucknow
+5,Vikash Yadav,Male,bca,SQL,vikash.yadav@gmail.com,21,
+12,Simran Khan,female,BBA,Excel,simran.khan@gmail.com,22,Lucknow
+30,Aditi Verma,Female,BBA,SQL,aditi.verma@gmail.com,21,Lucknow
+51,Vivek Yadav,Male,BBA,Excel,vivek.yadav@gmail.com,21,Lucknow
